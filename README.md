@@ -18,17 +18,15 @@ I work at the intersection of **computer vision and physical systems**—where a
 
 Recent focus: **agentic AI systems** that are auditable and constrained, **edge vision models** under strict latency and power budgets, **efficient training** of LLMs and small models, and **local-first tools** for knowledge work.
 
-Open to AI Engineer, Computer Vision, Remote Sensing ML, and Agentic AI roles in Thailand or remote.
+Open to AI Engineer, Computer Vision, Remote Sensing ML, and Agentic AI roles in Thailand, India or remote.
 
 ---
 
 ## 🌱 Currently Learning
 
 - Deep Reinforcement Learning (HuggingFace RL Course)
-- Computational Neuroscience & Neuromorphic Systems
-- Efficient LLM Training under Parameter & Memory Constraints
-- Edge Vision & On-Device Model Optimization
-- Auditable & Constrained Agentic AI
+- Langchain Academy Course
+- Kaggle Competetions / Hackathons
 
 ## 🛠️ Tech Stack
 
@@ -42,6 +40,11 @@ Open to AI Engineer, Computer Vision, Remote Sensing ML, and Agentic AI roles in
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
 
 ## 🎯 Featured Projects
+
+### Dopamine.Diet 
+I built Dopamine.Diet: a local-first productivity system that hijacks your brain's love for checkboxes, streaks, and green squares — and redirects it toward deep work.
+- [Live Blog](https://sai21112000.github.io/posts/dopamine-diet-local-first-productivity-system.html)
+- Website: [Dopamine.Diet](https://sai21112000.github.io/Dopamine.Diet/)
 
 ### AI Thesis Agent Kit
 Multi-agent orchestration system with 9 specialized agents, 6 immutable writing laws, and 90% confidence gate for hallucination control. Built during thesis at AIT to automate research documentation and inference.
@@ -98,7 +101,7 @@ A technical series documenting the full research and deployment journey:
 
 - **Production-grade AI systems**: Converting research prototypes into testable, deployable, and maintainable systems with clear evaluation metrics
 - **Edge & on-device vision**: Geospatial ML and vision models that run under strict latency, power, and memory constraints
-- **Local-first knowledge tools**: Building productivity systems that keep data local and enable fast context-switching between projects
+- **Building Projects**: Building productivity systems utilising OCR/TTS/RAG-Chatbots that keep data local and enable fast context-switching between projects
 - **Reliable, auditable agents**: Agentic AI with constraint-based reasoning, explicit control flow, and verifiable outputs (not just creative generation)
 
 ---
