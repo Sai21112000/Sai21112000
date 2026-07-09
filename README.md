@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Sai Teja Vaidya 👋</h1>
 
 <p align="center">
-  <b>Computer Vision · Deep Learning · Agentic AI · Edge ML</b><br>
+  <b>Applied AI & GenAI Engineer | Agentic Systems · LangChain · LLM Apps | Computer Vision & Geospatial ML</b>
+  <br>
   M.Eng. in ICT — Asian Institute of Technology, Thailand
 </p>
 
@@ -27,10 +28,10 @@ Open to AI Engineer roles.
 ## Current Focus
  
 ```text
-🔭  Building:      cost-aware agent orchestration, self-organizing memory graphs, real-time coaching systems
-🌱  Deepening:      LangChain / LangGraph agentic design patterns, context & harness engineering
-🔐  Studying:       offensive/defensive security fundamentals, applied to agent guardrails
-🎨  Also learning:  Manim, for turning technical ideas into visual explanations
+🔭  Building       : Cost-aware agent orchestration, self-organizing memory graphs, real-time coaching systems
+🌱  Deepening      : LangChain / LangGraph agentic design patterns, context & harness engineering
+🔐  Studying       : Offensive/defensive security fundamentals, applied to agent guardrails
+🎨  Also learning  : Manim, for turning technical ideas into visual explanations
 ```
  
 ---
