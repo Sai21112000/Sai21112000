@@ -50,6 +50,13 @@ Open to AI Engineer roles.
 
 ## 🎯 Featured Projects
 
+### Diamond
+A customer-facing assistant that answers only from approved airline pages and hands off when the pages do not support the claim.
+- Live: [Bhutan Airlines Thailand](https://omgexp.com/)
+- Essay: [How Diamond answers (AI ChatBot)](https://medium.com/@vaidyasaiteja143/how-diamond-answers-ai-chatbot-df5366a651c9)
+- Write-up: [The useful assistant is the one that can stop](https://sai21112000.github.io/posts/the-useful-assistant-is-the-one-that-can-stop.html)
+- Repo: [ChatBot_OMG](https://github.com/Sai21112000/ChatBot_OMG)
+
 ### CareerBot
 A bounded Python and MCP toolkit for scoring job fit, preparing verified application artifacts, and tracking state with immutable snapshots. It does not submit applications.
 - Live: [CareerBot](https://sai21112000.github.io/CareerBot/)
